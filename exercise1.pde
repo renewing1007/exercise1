@@ -9,6 +9,7 @@ arc(250,250,100,100,0,PI);
 fill(#FFFFFF);
 ellipse(240,225,25,35);
 ellipse(265,225,25,35);
+fill(#000000);
 ellipse(245,230,5,10);
 ellipse(260,230,5,10);
 fill(#FF0000);
