@@ -1,3 +1,24 @@
 // make some change here.
-size(100,100);
-background(0) ; 
+size(500,500);
+fill(#0066CC);
+ellipse(250,250,100,100);
+fill(#FFFFFF);
+ellipse(250,250,100,50);
+fill(#FFFFFF);
+arc(250,250,100,100,0,PI);
+fill(#FFFFFF);
+ellipse(240,225,25,35);
+ellipse(265,225,25,35);
+ellipse(245,230,5,10);
+ellipse(260,230,5,10);
+fill(#FF0000);
+ellipse(252.5,250,20,20);
+line(252.5,260,252.5,280);
+line(240,270,203,270);
+line(265,270,297,270);
+line(240,265,204,250);
+line(265,265,290,250);
+fill(#FFFFFF);
+arc(252.5,275,60,40,0,PI);
+line(240,275,210,280);
+line(265,275,287,283);
